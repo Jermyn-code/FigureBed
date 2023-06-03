@@ -1,0 +1,11 @@
+banzhang ni hao 1
+xihuan hadoop banzhang 2
+banzhang ni hao 3
+xihuan hadoop banzhang 4
+banzhang ni hao 5
+xihuan hadoop banzhang 6
+banzhang ni hao 7 
+xihuan hadoop banzhang 8
+banzhang ni hao 9
+xihuan hadoop banzhang banzhang ni hao 10
+xihuan hadoop banzhang 11
